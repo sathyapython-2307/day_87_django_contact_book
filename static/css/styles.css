@@ -1,0 +1,20 @@
+/* Add your custom styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+form {
+    margin: 20px 0;
+}
+
+a {
+    display: inline-block;
+    margin: 10px 0;
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
